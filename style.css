@@ -1,0 +1,15 @@
+body {
+    background-color: #2D2B2B;
+    color: white;
+    font-family: 'Courier New', monospace;
+}
+
+a {
+    color: red;
+}
+
+button {
+   border-color: black;
+   background-color: gray;
+   color: white;
+}
